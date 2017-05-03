@@ -1,0 +1,23 @@
+{
+  "name": "read-later",
+  "version": "1.0.0",
+  "description": "Save articles and read later",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryuzaki644/read-later.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ryuzaki644/read-later/issues"
+  },
+  "homepage": "https://github.com/ryuzaki644/read-later#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
